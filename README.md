@@ -1,3 +1,18 @@
+
+
+
+![Screenshot 2024-08-11 at 8 12 06 PM](https://github.com/user-attachments/assets/adb7f796-71ab-414e-b0c7-42aef29f0484)
+
+
+
+
+
+
+
+
+
+
+
 <h1>🌌 Solar System Explorer<h1></h1>
   
 Welcome to Solar System Explorer, a captivating journey through the celestial wonders of our solar system. This subproject of the ASTROX universe is meticulously crafted with HTML, CSS, and SCSS to provide a visually stunning and interactive experience.
