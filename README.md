@@ -40,3 +40,8 @@ CSS3: For styling and layout, ensuring a visually appealing interface.
 
 SCSS: Enhanced CSS with variables, nesting, and mixins for a powerful and flexible design system.
 
+
+Embark on your journey through the solar system and discover the wonders of our cosmic neighborhood with Solar System Explorer. Happy exploring! 🚀
+
+
+
