@@ -13,6 +13,7 @@
 
 
 
+
 <h1>🌌 Solar System Explorer sub-project of ASTROX</h1>
   
 Welcome to Solar System Explorer, a captivating journey through the celestial wonders of our solar system. This subproject of the ASTROX universe is meticulously crafted with HTML, CSS, and SCSS to provide a visually stunning and interactive experience.
